@@ -2,7 +2,7 @@
 
 > Template to start angular prototype; Use Grunt;
 
-> In the future, can create Yeoman scaffolding
+> In the future, create Yeoman scaffolding
 
 ## Setup
 This template was tested with Node.js `v0.10.28`
@@ -19,11 +19,16 @@ TODO - Describe the Grunt task here
 
 ## HTML & Javascript Frameworks
 
-Angular-seed
-http://html5boilerplate.com/
+This template was developed by choosing the best practices from the following projects:
 
-angular-grunt
-http://getbootstrap.com/
+* [Angular-seed](https://github.com/angular/angular-seed)
+  UI Frameworks: [html5boilerplate](http://html5boilerplate.com/)
+
+* [Yeoman Tutorial](http://yeoman.io/codelab.html)
+  UI Frameworks: [Bootstrap](http://getbootstrap.com/)
+
+* [gt-grunt](https://github.com/gthendean/gt-grunt) - Grunt experiment project
+  UI Frameworks: [Bootstrap](http://getbootstrap.com/)
 
 ## Optional Modules
 
