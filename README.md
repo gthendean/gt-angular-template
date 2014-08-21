@@ -21,13 +21,13 @@ TODO - Describe the Grunt task here
 
 This template was developed by choosing the best practices from the following projects:
 
-* [Angular-seed](https://github.com/angular/angular-seed)
+* [Angular-seed](https://github.com/angular/angular-seed)  
   UI Frameworks: [html5boilerplate](http://html5boilerplate.com/)
 
-* [Yeoman Tutorial](http://yeoman.io/codelab.html)
+* [Yeoman Tutorial](http://yeoman.io/codelab.html)  
   UI Frameworks: [Bootstrap](http://getbootstrap.com/)
 
-* [gt-grunt](https://github.com/gthendean/gt-grunt) - Grunt experiment project
+* [gt-grunt](https://github.com/gthendean/gt-grunt) - Grunt experiment project  
   UI Frameworks: [Bootstrap](http://getbootstrap.com/)
 
 ## Optional Modules
